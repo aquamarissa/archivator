@@ -1,0 +1,12 @@
+C:\Users\vrema\source\repos\Archivator\Archivator\bin\Release\Archivator.exe.config
+C:\Users\vrema\source\repos\Archivator\Archivator\bin\Release\Archivator.exe
+C:\Users\vrema\source\repos\Archivator\Archivator\bin\Release\Archivator.pdb
+C:\Users\vrema\source\repos\Archivator\Archivator\obj\Release\Archivator.csprojAssemblyReference.cache
+C:\Users\vrema\source\repos\Archivator\Archivator\obj\Release\Archivator.MainForm.resources
+C:\Users\vrema\source\repos\Archivator\Archivator\obj\Release\Archivator.ZipForm.resources
+C:\Users\vrema\source\repos\Archivator\Archivator\obj\Release\Archivator.Properties.Resources.resources
+C:\Users\vrema\source\repos\Archivator\Archivator\obj\Release\Archivator.csproj.GenerateResource.cache
+C:\Users\vrema\source\repos\Archivator\Archivator\obj\Release\Archivator.csproj.CoreCompileInputs.cache
+C:\Users\vrema\source\repos\Archivator\Archivator\obj\Release\Archivator.exe
+C:\Users\vrema\source\repos\Archivator\Archivator\obj\Release\Archivator.pdb
+C:\Users\vrema\source\repos\Archivator\Archivator\obj\Release\Archivator.Unzip.resources
